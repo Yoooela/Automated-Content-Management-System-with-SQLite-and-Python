@@ -1,1 +1,1 @@
-
+The primary purpose of this system is to search movies and generate relevant news based on user’s individual inputting such as movie name, genres. The system comprises nine templates organized into three categories: basic movie or actor information search, annual rankings, and digital news in the movie industry. These templates cover a wide range of queries, enabling users to access comprehensive information about movies, actors, genres, and industry trends.
